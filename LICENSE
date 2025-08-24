@@ -1,0 +1,47 @@
+LFM2-VL Image Analyzer - Freeware License
+
+Copyright (c) 2025 Filip Bogacz (Fibogacci). All rights reserved.
+
+This software is provided free of charge for personal, educational, and non-commercial use.
+
+PERMITTED USES:
+- Free download and use of the software
+- Personal and educational purposes
+- Non-commercial use and evaluation
+- Academic research and study
+
+PROHIBITED USES:
+- Commercial use without explicit written permission from the author
+- Reverse engineering, decompiling, or disassembling the software
+- Modification, adaptation, or creation of derivative works
+- Redistribution or sublicensing of the software
+- Removal or alteration of copyright notices or this license
+
+THIRD-PARTY COMPONENTS:
+- This software includes llama.cpp binaries (MIT License)
+- AI models are downloaded separately by the user from Hugging Face
+- Users are responsible for compliance with the licenses of downloaded models
+
+DISCLAIMER:
+This software is provided "AS IS" without warranty of any kind, express or implied, 
+including but not limited to the warranties of merchantability, fitness for a 
+particular purpose, and non-infringement. In no event shall Filip Bogacz (Fibogacci) 
+be liable for any claim, damages, or other liability, whether in an action of contract, 
+tort, or otherwise, arising from, out of, or in connection with the software or the 
+use or other dealings in the software.
+
+MODEL LICENSING:
+Users are solely responsible for ensuring compliance with the licenses of any AI models 
+they download and use with this software. The author makes no representations or 
+warranties regarding third-party model licenses.
+
+Contact: 
+- Website: https://fibogacci.com
+- GitHub: https://github.com/Fibogacci
+- LinkedIn: https://linkedin.com/in/Fibogacci
+- Buy Me a Coffee: https://buymeacoffee.com/Fibogacci
+- Medium: https://medium.com/@Fibogacci
+- Dev.to: https://dev.to/Fibogacci
+
+---
+For commercial licensing inquiries, please contact the author.
