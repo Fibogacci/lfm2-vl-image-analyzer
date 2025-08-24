@@ -137,6 +137,8 @@ This is experimental software. Bug reports and compatibility feedback are valuab
 - Website: https://fibogacci.com
 - GitHub: https://github.com/Fibogacci
 - LinkedIn: https://linkedin.com/in/Fibogacci
+- Buy Me a Coffee: https://buymeacoffee.com/Fibogacci
+- Medium: https://medium.com/@Fibogacci
 
 ---
 
