@@ -55,14 +55,14 @@ You need to download GGUF models from HuggingFace:
 
 ![Screenshot02](lfm2-vl-image-analyzer-0.1.0-downloading.png)
 
-### LFM2-VL-450M (Recommended - 354M parameters)
+### LFM2-VL-450M (Recommended)
 - **Main model**: [LiquidAI/LFM2-VL-450M-GGUF](https://huggingface.co/LiquidAI/LFM2-VL-450M-GGUF)
 - **Required files**:
   - `LFM2-VL-450M-Q4_0.gguf` (219 MB) - fastest
   - `mmproj-LFM2-VL-450M-Q8_0.gguf` - vision projector
 - **Memory**: ~1GB RAM required
 
-### LFM2-VL-1.6B (Advanced - 1.17B parameters)
+### LFM2-VL-1.6B (Advanced)
 - **Main model**: [LiquidAI/LFM2-VL-1.6B-GGUF](https://huggingface.co/LiquidAI/LFM2-VL-1.6B-GGUF)
 - **Required files**:
   - `LFM2-VL-1.6B-Q4_0.gguf` (696 MB)
@@ -72,7 +72,6 @@ You need to download GGUF models from HuggingFace:
 ### Model Placement
 Place downloaded `.gguf` files in:
 - **Bundled version**: `%APPDATA%\LFM2-VL-Analyzer\models\`
-- **Development**: `./liquidai-lfm2-vl-models/`
 
 ## Architecture
 
