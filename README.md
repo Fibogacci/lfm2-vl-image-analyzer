@@ -4,6 +4,8 @@ You can download it from: [fibogacci.com/download/LFM2-VL-Image-Analyzer-by-Fibo
 
 ⚠️ **EARLY PROTOTYPE** - A Windows desktop application for analyzing images using LiquidAI's LFM2-VL vision models.
 
+![screenshot1](./lfm2-vl-by-fibogacci-04.png)
+
 ## ⚠️ Important Notice
 
 This is an **early prototype** software. Please be aware:
@@ -74,6 +76,8 @@ This application uses an innovative **HTTP API approach**:
 - HTTP requests instead of subprocess calls
 - Eliminates Windows process creation stress
 - Automatic CPU optimization and compatibility detection
+
+![Screenshot02](lfm2-vl-image-analyzer-0.1.0-downloading.png)
 
 ## Troubleshooting
 
