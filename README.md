@@ -1,7 +1,7 @@
 # LFM2-VL Image Analyzer
 
-[Download LFM2-VL Image Analyzer v0.1.0](https://fibogacci.com/download/LFM2-VL-Image-Analyzer-by-Fibogacci-v0.1.0.exe)
-
+**Download:**
+- [LFM2-VL Image Analyzer v0.1.0 (Windows)](https://fibogacci.com/download/LFM2-VL-Image-Analyzer-by-Fibogacci-v0.1.0.exe) - ~86 MB
 
 ⚠️ **EARLY PROTOTYPE** - A Windows desktop application for analyzing images using LiquidAI's LFM2-VL vision models.
 
