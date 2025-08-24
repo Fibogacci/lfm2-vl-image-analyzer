@@ -50,6 +50,8 @@ This is an **early prototype** software. Please be aware:
 
 You need to download GGUF models from HuggingFace:
 
+![Screenshot02](lfm2-vl-image-analyzer-0.1.0-downloading.png)
+
 ### LFM2-VL-450M (Recommended - 354M parameters)
 - **Main model**: [LiquidAI/LFM2-VL-450M-GGUF](https://huggingface.co/LiquidAI/LFM2-VL-450M-GGUF)
 - **Required files**:
@@ -76,8 +78,6 @@ This application uses an innovative **HTTP API approach**:
 - HTTP requests instead of subprocess calls
 - Eliminates Windows process creation stress
 - Automatic CPU optimization and compatibility detection
-
-![Screenshot02](lfm2-vl-image-analyzer-0.1.0-downloading.png)
 
 ## Troubleshooting
 
